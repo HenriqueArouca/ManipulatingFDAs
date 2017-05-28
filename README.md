@@ -23,14 +23,13 @@ Class State:
            ID
            Initial
            Final
-
 Class with all gets and sets needed,and fuction toString.
-
+ 
+-----------------------------------------------------------------------------------------------------------
 
 Class Transition:
      Atribbutes : 
            Source
            Target
            Consumes
-
 Class with all gets and sets needed, and function toString.
